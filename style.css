@@ -4,11 +4,11 @@ html, body {
 }
 body {
     background-color: #999;
-    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#7c7c7c+0,000000+100 */
-    background: #7c7c7c; /* Old browsers */
-    background: -moz-radial-gradient(center, ellipse cover,  #7c7c7c 0%, #000000 100%); /* FF3.6-15 */
-    background: -webkit-radial-gradient(center, ellipse cover,  #7c7c7c 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
-    background: radial-gradient(ellipse at center,  #7c7c7c 0%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+   
+    background: #7c7c7c; 
+    background: -moz-radial-gradient(center, ellipse cover,  #7c7c7c 0%, #000000 100%); 
+    background: -webkit-radial-gradient(center, ellipse cover,  #7c7c7c 0%,#000000 100%); 
+    background: radial-gradient(ellipse at center,  #7c7c7c 0%,#000000 100%); 
 }
 .calculator {
     background: #353535;
